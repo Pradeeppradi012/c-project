@@ -1,4 +1,6 @@
-#include<stdio.h>  
+#include<stdio.h>
+pallindrome()
+
 int main()    
 {    
 int n,r,sum=0,temp;    

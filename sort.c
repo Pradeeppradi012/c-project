@@ -1,4 +1,5 @@
 #include <stdio.h>
+sorting()
 
 void sort_numbers_ascending(int number[], int count)
 {

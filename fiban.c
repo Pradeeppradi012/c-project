@@ -1,4 +1,5 @@
 #include <stdio.h>
+fibanaci()
 int main() {
 
   int i, n;
