@@ -1,7 +1,7 @@
 #include <stdio.h>
 sorting()
 
-void sort_numbers_ascending(int number[], int count)
+sort_numbers_ascending(int number[], int count)
 {
    int temp, i, j, k;
    for (j = 0; j < count; ++j)
