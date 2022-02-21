@@ -1,6 +1,6 @@
 #include <stdio.h>
-fibanaci()
-int main() {
+int fibanaci()
+  {
 
   int i, n;
 
