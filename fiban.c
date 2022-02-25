@@ -1,5 +1,5 @@
 #include <stdio.h>
-int fibanaci()
+fibanaci()
   {
 
   int i, n;
