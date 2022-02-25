@@ -8,5 +8,4 @@ main() {
 	biggest3();
 	sumoftwonumbers();
 	fibanaci();
-	sorting();
 }
