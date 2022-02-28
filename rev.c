@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 reverse()
 {
   char str[1000], rev[1000];
