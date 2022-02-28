@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
  factorial() {
     int n, i;
     unsigned long long fact = 1;
